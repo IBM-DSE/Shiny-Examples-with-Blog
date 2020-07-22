@@ -3,7 +3,8 @@ This repository contains the code example for a series of blogs on R shiny. New 
 
 ## Dashboards & Blogs
 1. Center Diverging Colors on Leaflet Map
-- Shiny: https://ibm-dse-rshiny.shinyapps.io/Example-1-Leaflet-Center-Diverging-Colors/
+  - Shiny: https://ibm-dse-rshiny.shinyapps.io/Example-1-Leaflet-Center-Diverging-Colors/
+  - Blog: https://medium.com/inside-machine-learning/center-diverging-colors-on-leaflet-map-515e69d7f81f
 
 
 ## Additional Data Files
