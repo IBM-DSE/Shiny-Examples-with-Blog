@@ -78,7 +78,8 @@ server <- function(input, output, session) {
       addLegend(
         "topright",
         pal = colorBin('RdBu', poly_state@data$WATER_LAND_RATIO),
-        values = poly_state@data$WATER_LAND_RATIO
+        values = poly_state@data$WATER_LAND_RATIO,
+        opacity =  0.9
       )
     
   })
@@ -112,7 +113,8 @@ server <- function(input, output, session) {
       addLegend(
         "topright",
         pal = colorBin(colorPal, domain = domain+as.numeric(input$select_format)),
-        values = domain
+        values = domain,
+        opacity =  0.9
       )
   })
   
@@ -161,7 +163,8 @@ server <- function(input, output, session) {
       addLegend(
         "topright",
         colors = df_pal$Color_Value,
-        labels = df_pal$Color_Label
+        labels = df_pal$Color_Label,
+        opacity =  0.9 # use the same opacity as fillOpacity in addPolygons or you will scratch your head wondering why colors mismatch
       ) 
     
   })
