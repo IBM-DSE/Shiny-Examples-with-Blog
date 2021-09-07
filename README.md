@@ -12,7 +12,7 @@ This repository contains the code example for a series of blogs on R shiny. New 
 
 3. Layer-Specific Legend in Leaflet
   - Shiny: https://ibm-dse-rshiny.shinyapps.io/Example-3-Leaflet-Layer-Specific-Legend/
-  - Blog:
+  - Blog: https://medium.com/ibm-data-ai/layer-specific-legend-in-leaflet-8e80ffd72e03
 
 ## Additional Data Files
 shapefiles: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
