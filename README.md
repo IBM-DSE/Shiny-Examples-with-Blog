@@ -13,6 +13,10 @@ This repository contains the code example for a series of blogs on R shiny. New 
 3. Layer-Specific Legend in Leaflet
   - Shiny: https://ibm-dse-rshiny.shinyapps.io/Example-3-Leaflet-Layer-Specific-Legend/
   - Blog: https://medium.com/ibm-data-ai/layer-specific-legend-in-leaflet-8e80ffd72e03
+  
+4. Asynchrous Loading of Layers
+  - Shiny: https://ibm-dse-rshiny.shinyapps.io/Example-4-Leaflet-Asynchronous-Loading-of-Layers/
+  - Blog:
 
 ## Additional Data Files
 shapefiles: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
@@ -21,4 +25,4 @@ FIPS code reference: https://www.census.gov/geographies/reference-files/2019/dem
 
 
 ## Helpful Tools
-color brewer: https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+color brewer: https://colorbrewer2.org/
