@@ -16,7 +16,7 @@ This repository contains the code example for a series of blogs on R shiny. New 
   
 4. Asynchrous Loading of Layers
   - Shiny: https://ibm-dse-rshiny.shinyapps.io/Example-4-Leaflet-Asynchronous-Loading-of-Layers/
-  - Blog:
+  - Blog: https://medium.com/ibm-data-ai/asynchronous-loading-of-leaflet-layer-groups-afc073999e77
 
 ## Additional Data Files
 shapefiles: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
